@@ -1,0 +1,13 @@
+{
+  "name": "craftpeak/updraftplus-hourly",
+  "type": "wordpress-muplugin",
+  "authors": [
+    {
+      "name": "Craftpeak",
+      "email": "hello@craftpeak.com"
+    }
+  ],
+  "require": {
+    "composer/installers": "^1.0"
+  }
+}
